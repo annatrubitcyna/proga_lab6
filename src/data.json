@@ -1,0 +1,114 @@
+[
+  {
+    "name": "Ann",
+    "coordinates": {
+      "x": 0,
+      "y": 300
+    },
+    "realHero": "True",
+    "hasToothpick": "True",
+    "impactSpeed": 4.4,
+    "soundtrackName": "Soundtrack1",
+    "weaponType": "KNIFE",
+    "mood": "CALM",
+    "car": {
+      "cool": "True"
+    }
+  },
+  {
+    "name": "Misha",
+    "coordinates": {
+      "x": 0,
+      "y": 300
+    },
+    "realHero": "True",
+    "hasToothpick": "True",
+    "impactSpeed": 4.4,
+    "soundtrackName": "Soundtrack1",
+    "weaponType": "KNIFE",
+    "mood": "CALM",
+    "car": {
+      "cool": "True"
+    }
+  },
+  {
+    "name": "Sasha",
+    "coordinates": {
+      "x": 0,
+      "y": 300
+    },
+    "realHero": "True",
+    "hasToothpick": "True",
+    "impactSpeed": 4.4,
+    "soundtrackName": "Soundtrack1",
+    "weaponType": "KNIFE",
+    "mood": "CALM",
+    "car": {
+      "cool": "True"
+    }
+  },
+  {
+    "name": "Masha",
+    "coordinates": {
+      "x": 0,
+      "y": 300
+    },
+    "realHero": "True",
+    "hasToothpick": "True",
+    "impactSpeed": 4.4,
+    "soundtrackName": "Soundtrack1",
+    "weaponType": "KNIFE",
+    "mood": "CALM",
+    "car": {
+      "cool": "True"
+    }
+  },
+  {
+    "name": "Vanya",
+    "coordinates": {
+      "x": 0,
+      "y": 300
+    },
+    "realHero": "True",
+    "hasToothpick": "True",
+    "impactSpeed": 4.4,
+    "soundtrackName": "Soundtrack1",
+    "weaponType": "KNIFE",
+    "mood": "CALM",
+    "car": {
+      "cool": "True"
+    }
+  },
+  {
+    "name": "Artur",
+    "coordinates": {
+      "x": 0,
+      "y": 300
+    },
+    "realHero": "True",
+    "hasToothpick": "True",
+    "impactSpeed": 4.4,
+    "soundtrackName": "Soundtrack1",
+    "weaponType": "KNIFE",
+    "mood": "CALM",
+    "car": {
+      "cool": "True"
+    }
+  },
+  {
+    "name": "Anton",
+    "coordinates": {
+      "x": 45,
+      "y": 300
+    },
+    "realHero": "True",
+    "hasToothpick": "True",
+    "impactSpeed": 4.4,
+    "soundtrackName": "Soundtrack2",
+    "weaponType": "KNIFE",
+    "mood": "FRENZY",
+    "car": {
+      "cool": "True"
+    }
+  }
+]
